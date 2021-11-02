@@ -1,5 +1,12 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+:target {
+  border: 4px dotted lightblue;
+  /* background-color: #a8b7eb; */
+  /* padding-left: 5px;
+  padding-right: 5px; */
+}
+
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
